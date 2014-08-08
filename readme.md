@@ -1,7 +1,7 @@
-vagrant-bash
+vagrant-shell
 ==============
 
-Vagrant VM config with bash.
+Vagrant VM config with shell.
 
 Creates an Ubuntu LAMP server.
 
